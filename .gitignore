@@ -1,0 +1,17 @@
+*.json
+*.zip
+chars/
+.DS_Store
+paper/
+
+# LaTeX build artifacts (paper/)
+*.aux
+*.bbl
+*.blg
+*.log
+*.synctex.gz
+*.fls
+*.fdb_latexmk
+*.out
+*.toc
+paper/main.pdf
